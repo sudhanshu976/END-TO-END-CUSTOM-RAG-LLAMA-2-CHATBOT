@@ -1,0 +1,4 @@
+.venv/
+model/
+End_to_End_LLAMA_Chatbot.egg-info/
+.env

@@ -1,0 +1,8 @@
+ctransformers==0.2.5          #necessary for langchain and llama
+sentence-transformers==2.2.2  #for embedding model
+pinecone-client==2.2.4
+langchain==0.0.225
+flask
+pypdf
+python-dotenv
+-e .
